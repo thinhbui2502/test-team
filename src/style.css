@@ -1,0 +1,15 @@
+img{
+    max-width: 500px;
+}
+
+.content{
+    width: 450px;
+    text-align: justify;
+    border: solid 1px rgba(131,120,211,0.19);
+}
+
+#container {
+    width: 80%;
+    height: 800px;
+    margin: 20px auto;
+}
